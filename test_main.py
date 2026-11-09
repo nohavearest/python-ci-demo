@@ -1,4 +1,4 @@
-import runpyp
+import runpy
 
 
 def test_main_output(capsys):
